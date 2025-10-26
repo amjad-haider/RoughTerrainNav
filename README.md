@@ -1,3 +1,5 @@
+[![Language: German](https://img.shields.io/badge/lang-Deutsch-blue.svg)](https://github.com/amjad-haider/RoughTerrainNav/blob/main/README.de.md)
+
 # RoughTerrainNav
 Autonomous Vehicle Navigation in Rough Terrain
 
